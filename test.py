@@ -1,1 +1,1 @@
-print("hello world S1&S2")
+print("hello world d2")
